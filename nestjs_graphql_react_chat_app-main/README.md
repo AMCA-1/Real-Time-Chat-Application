@@ -1,7 +1,7 @@
 **Real-Time Chat Application**
 A full-stack, real-time chat application built using modern web development technologies. The app supports real-time messaging, user authentication, group chats, and a sleek responsive design.
 
-**🚀 Features**
+##**🚀 Features**
 -Real-time messaging powered by WebSockets (Pusher or Socket.IO)
 -Authentication (Sign Up, Login, Logout)
 -Private and group chats
