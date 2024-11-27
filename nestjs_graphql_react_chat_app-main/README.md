@@ -10,6 +10,7 @@ User Profiles: Upload avatars and manage profile settings.
 Persistent Chat History: Messages are stored and retrieved from a database.
 File Sharing: Send images and files in chats.
 Notifications: Receive real-time notifications for new messages.
+
 **🛠️ Tech Stack**
 *Frontend:*
 
