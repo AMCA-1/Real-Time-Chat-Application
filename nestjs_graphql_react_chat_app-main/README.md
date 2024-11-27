@@ -12,17 +12,17 @@ File Sharing: Send images and files in chats.
 Notifications: Receive real-time notifications for new messages.
 
 **🛠️ Tech Stack**
-*Frontend:*
+**Frontend:**
 
 React.js
 Next.js
 TailwindCSS
-*Backend:*
+**Backend:**
 
 Nest.js
 Node.js
 WebSockets (e.g., Pusher or Socket.IO)
-*Database:*
+**Database:**
 
 MongoDB (or PostgreSQL)
 Prisma
